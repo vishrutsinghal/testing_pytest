@@ -31,3 +31,8 @@ def test_divide_by_zero():
     with pytest.raises(ZeroDivisionError) as e:
         calc.div(NUMBER_1, 0)
     assert "division by 0", str(e)
+
+
+# if __name__ == '__main__':
+#     import timeit
+#     print(timeit.timeit("test()", setup="from __main__ import test", number=100))
