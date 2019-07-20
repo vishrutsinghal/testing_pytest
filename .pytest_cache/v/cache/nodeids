@@ -1,0 +1,7 @@
+[
+  "test_calc.py::test_Add",
+  "test_calc.py::test_Sub",
+  "test_calc.py::test_mul",
+  "test_calc.py::test_div",
+  "test_calc.py::test_divide_by_zero"
+]
